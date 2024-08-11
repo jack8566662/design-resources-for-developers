@@ -3,6 +3,7 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Colors](#colors)
@@ -12,22 +13,22 @@
 - [Icon Fonts](#icon-fonts)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
-- [Stock Music & Sound Effects](#stock-music--sound-effects)
-- [Vectors & Clip Art](#vectors--clip-art)
-- [Product & Image Mockups](#product--image-mockups)
-- [HTML & CSS Templates](#html--css-templates)
+- [Stock Music \& Sound Effects](#stock-music--sound-effects)
+- [Vectors \& Clip Art](#vectors--clip-art)
+- [Product \& Image Mockups](#product--image-mockups)
+- [HTML \& CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
 - [CSS Methodologies](#css-methodologies)
 - [CSS Animations](#css-animations)
 - [Javascript Animation Libraries](#javascript-animation-libraries)
 - [Javascript Chart Libraries](#javascript-chart-libraries)
-- [UI Components & Kits](#ui-components--kits)
+- [UI Components \& Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui-libraries)
 - [Vue UI Libraries](#vue-ui-libraries)
 - [Angular UI Libraries](#angular-ui-libraries)
 - [Svelte UI Libraries](#svelte-ui-libraries)
 - [React Native UI Libraries](#react-native-ui-libraries)
-- [Design Systems & Style Guides](#design-systems--style-guides)
+- [Design Systems \& Style Guides](#design-systems--style-guides)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#design-inspiration)
@@ -428,7 +429,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Pexels](https://www.pexels.com/videos)| Largest library of free to use videos, donated by the community |
-| [Pixabay](https://www.pixabay.com/videos)| Large library of free to use videos, donated by the community similar to Pexels |
+| [Pixabay](https://www.pixabay.com/videos)| Large library of free to use videos, donated by the community similar to Pexels  |
 | [Coverr.co](https://coverr.co/)| Beautiful free stock video footage |
 | [Videezy](https://www.videezy.com/)| Free HD stock footage & 4K videos |
 | [Mix Kit](https://mixkit.co/)| Stock video clips & music |
